@@ -118,7 +118,9 @@
 ![7](https://github.com/user-attachments/assets/43913c94-ee6a-40cc-980d-758442e2fe32)
 
 # อันนี้คือ code ของ code.gs
+
 function doGet() {
     return HtmlService.createHtmlOutputFromFile('index');
 }
+
 หลังจากนั้นก็กด deploy
