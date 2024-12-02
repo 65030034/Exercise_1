@@ -86,19 +86,19 @@
               <p><strong>object-fit: fill;</strong><br>ภาพจะถูกยืดหรือบีบให้เต็มกรอบโดยไม่รักษาสัดส่วน</p>
             </div>
             <div>
-              <img src="(URL.jpg)" style="object-fit: contain;" alt="Object Fit Contain">
+              <img src="(URL.jpg)" style="object-fit: เติมมา;" alt="Object Fit เติมมา">
               <p><strong>object-fit: contain;</strong><br>ภาพจะถูกปรับให้พอดีกับกรอบโดยรักษาสัดส่วน</p>
             </div>
             <div>
-              <img src="(URL.jpg)" style="object-fit: cover;" alt="Object Fit Cover">
+              <img src="(URL.jpg)" style="object-fit: ดู code ละเติมมา;" alt="Object Fit เติมมา">
               <p><strong>object-fit: cover;</strong><br>ภาพจะถูกขยายให้เต็มกรอบโดยรักษาสัดส่วน แต่บางส่วนอาจถูกครอบตัด</p>
             </div>
             <div>
-              <img src="(URL.jpg)" style="object-fit: none;" alt="Object Fit None">
+              <img src="(URL.jpg)" style="object-fit: เติมมา;" alt="Object Fit เติมมา">
               <p><strong>object-fit: none;</strong><br>ภาพจะแสดงตามขนาดจริงโดยไม่ปรับให้พอดีกับกรอบ</p>
             </div>
             <div>
-              <img src="(URL.jpg)" style="object-fit: scale-down;" alt="Object Fit Scale-down">
+              <img src="(URL.jpg)" style="object-fit: เติมมา;" alt="Object Fit เติมมา">
               <p><strong>object-fit: scale-down;</strong><br>ภาพจะถูกปรับขนาดเล็กที่สุดระหว่าง none และ contain</p>
             </div>
           </div>
