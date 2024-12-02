@@ -45,14 +45,12 @@
         background-color: #f4f4f4;
         color: #333;
       }
-  
       h1 {
         text-align: center;
         margin-top: 20px;
         font-size: 2rem;
         color: #444;
       }
-  
       div {
         display: flex;
         flex-wrap: wrap;
@@ -60,7 +58,6 @@
         gap: 20px;
         padding: 20px;
       }
-  
       div > div {
         width: 250px;
         text-align: center;
@@ -69,19 +66,16 @@
         background-color: #fff;
         padding: 10px;
       }
-  
       img {
         width: 100%;
         height: 200px;
         border-radius: 8px;
         margin-bottom: 10px;
       }
-  
       p {
         font-size: 0.9rem;
         color: #555;
       }
-  
       strong {
         font-weight: bold;
         color: #333;
