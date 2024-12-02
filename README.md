@@ -30,90 +30,90 @@
 ![6](https://github.com/user-attachments/assets/dc922b1b-f902-40f5-8c75-af828bc5b43e)
 
 # อันนี้คือตัว code
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Object Fit Practice</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      margin: 0;
-      padding: 0;
-      background-color: #f4f4f4;
-      color: #333;
-    }
-
-    h1 {
-      text-align: center;
-      margin-top: 20px;
-      font-size: 2rem;
-      color: #444;
-    }
-
-    div {
-      display: flex;
-      flex-wrap: wrap;
-      justify-content: center;
-      gap: 20px;
-      padding: 20px;
-    }
-
-    div > div {
-      width: 250px;
-      text-align: center;
-      border-radius: 10px;
-      box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
-      background-color: #fff;
-      padding: 10px;
-    }
-
-    img {
-      width: 100%;
-      height: 200px;
-      border-radius: 8px;
-      margin-bottom: 10px;
-    }
-
-    p {
-      font-size: 0.9rem;
-      color: #555;
-    }
-
-    strong {
-      font-weight: bold;
-      color: #333;
-    }
-  </style>
-</head>
--<body>
-  <h1>Object Fit Practice</h1>
-  <div>
+  
+  <!DOCTYPE html>
+  <html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Object Fit Practice</title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 0;
+        background-color: #f4f4f4;
+        color: #333;
+      }
+  
+      h1 {
+        text-align: center;
+        margin-top: 20px;
+        font-size: 2rem;
+        color: #444;
+      }
+  
+      div {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 20px;
+        padding: 20px;
+      }
+  
+      div > div {
+        width: 250px;
+        text-align: center;
+        border-radius: 10px;
+        box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+        background-color: #fff;
+        padding: 10px;
+      }
+  
+      img {
+        width: 100%;
+        height: 200px;
+        border-radius: 8px;
+        margin-bottom: 10px;
+      }
+  
+      p {
+        font-size: 0.9rem;
+        color: #555;
+      }
+  
+      strong {
+        font-weight: bold;
+        color: #333;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Object Fit Practice</h1>
     <div>
-      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIbcr8qdAn6Fv0GaPrq8z-X1XZR5vjkNHXiQ&s" style="object-fit: fill;" alt="Object Fit Fill">
-      <p><strong>object-fit: fill;</strong><br>ภาพจะถูกยืดหรือบีบให้เต็มกรอบโดยไม่รักษาสัดส่วน</p>
+      <div>
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIbcr8qdAn6Fv0GaPrq8z-X1XZR5vjkNHXiQ&s" style="object-fit: fill;" alt="Object Fit Fill">
+        <p><strong>object-fit: fill;</strong><br>ภาพจะถูกยืดหรือบีบให้เต็มกรอบโดยไม่รักษาสัดส่วน</p>
+      </div>
+      <div>
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIbcr8qdAn6Fv0GaPrq8z-X1XZR5vjkNHXiQ&s" style="object-fit: contain;" alt="Object Fit Contain">
+        <p><strong>object-fit: contain;</strong><br>ภาพจะถูกปรับให้พอดีกับกรอบโดยรักษาสัดส่วน</p>
+      </div>
+      <div>
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIbcr8qdAn6Fv0GaPrq8z-X1XZR5vjkNHXiQ&s" style="object-fit: cover;" alt="Object Fit Cover">
+        <p><strong>object-fit: cover;</strong><br>ภาพจะถูกขยายให้เต็มกรอบโดยรักษาสัดส่วน แต่บางส่วนอาจถูกครอบตัด</p>
+      </div>
+      <div>
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIbcr8qdAn6Fv0GaPrq8z-X1XZR5vjkNHXiQ&s" style="object-fit: none;" alt="Object Fit None">
+        <p><strong>object-fit: none;</strong><br>ภาพจะแสดงตามขนาดจริงโดยไม่ปรับให้พอดีกับกรอบ</p>
+      </div>
+      <div>
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIbcr8qdAn6Fv0GaPrq8z-X1XZR5vjkNHXiQ&s" style="object-fit: scale-down;" alt="Object Fit Scale-down">
+        <p><strong>object-fit: scale-down;</strong><br>ภาพจะถูกปรับขนาดเล็กที่สุดระหว่าง none และ contain</p>
+      </div>
     </div>
-    <div>
-      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIbcr8qdAn6Fv0GaPrq8z-X1XZR5vjkNHXiQ&s" style="object-fit: contain;" alt="Object Fit Contain">
-      <p><strong>object-fit: contain;</strong><br>ภาพจะถูกปรับให้พอดีกับกรอบโดยรักษาสัดส่วน</p>
-    </div>
-    <div>
-      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIbcr8qdAn6Fv0GaPrq8z-X1XZR5vjkNHXiQ&s" style="object-fit: cover;" alt="Object Fit Cover">
-      <p><strong>object-fit: cover;</strong><br>ภาพจะถูกขยายให้เต็มกรอบโดยรักษาสัดส่วน แต่บางส่วนอาจถูกครอบตัด</p>
-    </div>
-    <div>
-      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIbcr8qdAn6Fv0GaPrq8z-X1XZR5vjkNHXiQ&s" style="object-fit: none;" alt="Object Fit None">
-      <p><strong>object-fit: none;</strong><br>ภาพจะแสดงตามขนาดจริงโดยไม่ปรับให้พอดีกับกรอบ</p>
-    </div>
-    <div>
-      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIbcr8qdAn6Fv0GaPrq8z-X1XZR5vjkNHXiQ&s" style="object-fit: scale-down;" alt="Object Fit Scale-down">
-      <p><strong>object-fit: scale-down;</strong><br>ภาพจะถูกปรับขนาดเล็กที่สุดระหว่าง none และ contain</p>
-    </div>
-  </div>
-</body>
-</html>
+  </body>
+  </html>
 
 6.เข้าไปแก้ในไฟล์ code.gs
 
