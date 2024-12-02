@@ -31,7 +31,7 @@
 
 # อันนี้คือตัว code
 
--<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -88,7 +88,7 @@
     }
   </style>
 </head>
-<body>
+-<body>
   <h1>Object Fit Practice</h1>
   <div>
     <div>
