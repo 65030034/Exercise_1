@@ -110,8 +110,8 @@
 
 # อันนี้คือ code ของ code.gs
 
-  function doGet() {
-      return HtmlService.createHtmlOutputFromFile('index');
-  }
+    function doGet() {
+        return HtmlService.createHtmlOutputFromFile('index');
+    }
 
 หลังจากนั้นก็กด deploy
