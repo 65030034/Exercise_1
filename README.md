@@ -108,7 +108,6 @@
     </div>
   </body>
   </html>
-
 6.เข้าไปแก้ในไฟล์ code.gs
 
 ![7](https://github.com/user-attachments/assets/43913c94-ee6a-40cc-980d-758442e2fe32)
