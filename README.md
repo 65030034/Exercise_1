@@ -79,27 +79,27 @@
           </style>
         </head>
         <body>
-          <h1>Object Fit Practice</h1>
+          <h2>Object Fit Practice</h1>
           <div>
             <div>
               <img src="(URL.jpg)" style="object-fit: fill;" alt="Object Fit Fill">
-              <p><strong>object-fit: fill;</strong><br>ภาพจะถูกยืดหรือบีบให้เต็มกรอบโดยไม่รักษาสัดส่วน</p>
+              <p><strong>object-fit: ;</strong><br>ภาพจะถูกยืดหรือบีบให้เต็มกรอบโดยไม่รักษาสัดส่วน</p>
             </div>
             <div>
               <img src="(URL.jpg)" style="object-fit: เติมมา;" alt="Object Fit เติมมา">
-              <p><strong>object-fit: contain;</strong><br>ภาพจะถูกปรับให้พอดีกับกรอบโดยรักษาสัดส่วน</p>
+              <p><strong>object-fit: ;</strong><br>ภาพจะถูกปรับให้พอดีกับกรอบโดยรักษาสัดส่วน</p>
             </div>
             <div>
               <img src="(URL.jpg)" style="object-fit: ดู code ละเติมมา;" alt="Object Fit เติมมา">
-              <p><strong>object-fit: cover;</strong><br>ภาพจะถูกขยายให้เต็มกรอบโดยรักษาสัดส่วน แต่บางส่วนอาจถูกครอบตัด</p>
+              <p><strong>object-fit: ;</strong><br>ภาพจะถูกขยายให้เต็มกรอบโดยรักษาสัดส่วน แต่บางส่วนอาจถูกครอบตัด</p>
             </div>
             <div>
               <img src="(URL.jpg)" style="object-fit: เติมมา;" alt="Object Fit เติมมา">
-              <p><strong>object-fit: none;</strong><br>ภาพจะแสดงตามขนาดจริงโดยไม่ปรับให้พอดีกับกรอบ</p>
+              <p><strong>object-fit: ;</strong><br>ภาพจะแสดงตามขนาดจริงโดยไม่ปรับให้พอดีกับกรอบ</p>
             </div>
             <div>
-              <img src="(URL.jpg)" style="object-fit: เติมมา;" alt="Object Fit เติมมา">
-              <p><strong>object-fit: scale-down;</strong><br>ภาพจะถูกปรับขนาดเล็กที่สุดระหว่าง none และ contain</p>
+              <img src="(URL.jpg)" style="object-fit: เติมมา;" alt="Object Fit อะไรจะใส่ไม่ใส่ก็ได้">
+              <p><strong>object-fit: ;</strong><br>ภาพจะถูกปรับขนาดเล็กที่สุดระหว่าง none และ contain</p>
             </div>
           </div>
         </body>
