@@ -10,11 +10,13 @@
 
 3.ให้เราไปเปลี่ยนชื่อเป็นชื่อ เลขที่_ชื่อนักเรียน_exercise1
 
-![Screenshot 2024-12-02 061140](https://github.com/user-attachments/assets/35cfe859-8322-44d9-8884-9bf753ff25f7)
+![git2](https://github.com/user-attachments/assets/82c72eb5-e7a4-4e34-a88d-25ea62f72c54)
+
 
 4.หลังจากนั้นให้นักเรียนสร้างไฟล์ โดยกดเครื่องหมาย + ดังภาพ
 
-![3](https://github.com/user-attachments/assets/216c1081-fb54-40c8-91d1-05f02a38eb68)
+![git1](https://github.com/user-attachments/assets/add3c777-ddae-4fbe-bf2c-8128ce672de8)
+
 
 แล้วเลื่อก HTML 
 
