@@ -4,16 +4,12 @@
 
 ![Screenshot 2024-12-02 061140](https://github.com/user-attachments/assets/acbb3096-3efb-4fb7-adc6-8d3a77585254)
 
-2.พอเข้ามาได้แล้วจะได้หน้านี้นะครับ
-
-![Screenshot 2024-12-02 061140](https://github.com/user-attachments/assets/2709c051-95c6-47ab-bf09-9fc4b5fbd4a4)
-
-3.ให้เราไปเปลี่ยนชื่อเป็นชื่อ เลขที่_ชื่อนักเรียน_exercise1
+2.ให้เราไปเปลี่ยนชื่อเป็นชื่อ เลขที่_ชื่อนักเรียน_exercise1
 
 ![git2](https://github.com/user-attachments/assets/82c72eb5-e7a4-4e34-a88d-25ea62f72c54)
 
 
-4.หลังจากนั้นให้นักเรียนสร้างไฟล์ โดยกดเครื่องหมาย + ดังภาพ
+3.หลังจากนั้นให้นักเรียนสร้างไฟล์ โดยกดเครื่องหมาย + ดังภาพ
 
 ![git1](https://github.com/user-attachments/assets/add3c777-ddae-4fbe-bf2c-8128ce672de8)
 
@@ -25,7 +21,7 @@
 แล้วตั้งชื่อไฟล์ให้ชื่อ index
 หลังจากนั้นเราจะได้ไฟล์ index.html
 
-5.หลังจากนั้นให้เราเข้าไปแก้ไขไฟล์โดยใช้ code ตามตัวอย่าง
+4.หลังจากนั้นให้เราเข้าไปแก้ไขไฟล์โดยใช้ code ตามตัวอย่าง
 
 ![6](https://github.com/user-attachments/assets/dc922b1b-f902-40f5-8c75-af828bc5b43e)
 
@@ -108,7 +104,7 @@
           </div>
         </body>
         </html>
-6.เข้าไปแก้ในไฟล์ code.gs
+5.เข้าไปแก้ในไฟล์ code.gs
 
 ![7](https://github.com/user-attachments/assets/43913c94-ee6a-40cc-980d-758442e2fe32)
 
