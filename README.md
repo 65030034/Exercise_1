@@ -82,23 +82,23 @@
           <h1>Object Fit Practice</h1>
           <div>
             <div>
-              <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIbcr8qdAn6Fv0GaPrq8z-X1XZR5vjkNHXiQ&s" style="object-fit: fill;" alt="Object Fit Fill">
+              <img src="(URL.jpg)" style="object-fit: fill;" alt="Object Fit Fill">
               <p><strong>object-fit: fill;</strong><br>ภาพจะถูกยืดหรือบีบให้เต็มกรอบโดยไม่รักษาสัดส่วน</p>
             </div>
             <div>
-              <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIbcr8qdAn6Fv0GaPrq8z-X1XZR5vjkNHXiQ&s" style="object-fit: contain;" alt="Object Fit Contain">
+              <img src="(URL.jpg)" style="object-fit: contain;" alt="Object Fit Contain">
               <p><strong>object-fit: contain;</strong><br>ภาพจะถูกปรับให้พอดีกับกรอบโดยรักษาสัดส่วน</p>
             </div>
             <div>
-              <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIbcr8qdAn6Fv0GaPrq8z-X1XZR5vjkNHXiQ&s" style="object-fit: cover;" alt="Object Fit Cover">
+              <img src="(URL.jpg)" style="object-fit: cover;" alt="Object Fit Cover">
               <p><strong>object-fit: cover;</strong><br>ภาพจะถูกขยายให้เต็มกรอบโดยรักษาสัดส่วน แต่บางส่วนอาจถูกครอบตัด</p>
             </div>
             <div>
-              <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIbcr8qdAn6Fv0GaPrq8z-X1XZR5vjkNHXiQ&s" style="object-fit: none;" alt="Object Fit None">
+              <img src="(URL.jpg)" style="object-fit: none;" alt="Object Fit None">
               <p><strong>object-fit: none;</strong><br>ภาพจะแสดงตามขนาดจริงโดยไม่ปรับให้พอดีกับกรอบ</p>
             </div>
             <div>
-              <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIbcr8qdAn6Fv0GaPrq8z-X1XZR5vjkNHXiQ&s" style="object-fit: scale-down;" alt="Object Fit Scale-down">
+              <img src="(URL.jpg)" style="object-fit: scale-down;" alt="Object Fit Scale-down">
               <p><strong>object-fit: scale-down;</strong><br>ภาพจะถูกปรับขนาดเล็กที่สุดระหว่าง none และ contain</p>
             </div>
           </div>
